@@ -1,5 +1,4 @@
 body {
-	overflow: hidden;
 }
 
 .icon-bar {
@@ -11,11 +10,10 @@ body {
 	max-height: none;
 }
 
-/*
 #menu_btn_div {
 	margin-top: 0px;
 	margin-left: 0px;
-}*/
+}
 
 .interface_btn {
 	background-color: #0a3859;
