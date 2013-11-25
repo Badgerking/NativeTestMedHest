@@ -170,8 +170,7 @@ body,
 }
 
 /* Fallback example for browsers that don't support 3D transforms (and no JS fallback) */
-/*
 .no-csstransforms3d .st-pusher,
 .no-js .st-pusher {
-	padding-left: -200px;
-}*/
+	padding-left: 300px;
+}
