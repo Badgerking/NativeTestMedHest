@@ -1,0 +1,81 @@
+body {
+	overflow: hidden;
+}
+
+.icon-bar {
+	background-color: #fff;
+}
+
+.leaflet-map-pane img {
+	max-width: none;
+	max-height: none;
+}
+
+/*
+#menu_btn_div {
+	margin-top: 0px;
+	margin-left: 0px;
+}*/
+
+.interface_btn {
+	background-color: #0a3859;
+	width: 30px;
+	height: 50px;
+	color: #fff;
+	text-align: center;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;	
+}
+
+.menu_glyph {
+	font-size: 20px !important;
+	top: 11px !important;
+	vertical-align: middle !important;
+}
+
+#menuknap {
+	position: absolute;
+	z-index: 9000;
+	margin-top: 15%;
+}
+
+#layerknap {
+	position: absolute;
+	z-index: 9000;
+	margin-top: 25%;
+}
+
+/*Zoom Buttons */
+.zoom-btn {
+	right: 10px;
+	font-size: 20px;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+	text-align: center;
+	vertical-align: middle;
+	color: #fff;
+	background-color: #0a3859;
+}
+
+#zoom-in {
+	position: absolute;
+	top: 50px;
+	z-index: 5000;
+}
+
+#zoom-out {
+	position: absolute;
+	top: 90px;
+	z-index: 5000;
+}
+
+/* Fonts */
+.menu_overskrift {
+	font-size: 13px;
+	color: #fff;
+}
