@@ -73,7 +73,7 @@ body {
 }
 
 /* Fonts */
-.menu_overskrift {
+a.menu_overskrift {
 	font-size: 13px;
 	color: #fff;
 }
